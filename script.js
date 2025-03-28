@@ -2,7 +2,7 @@
 const nombres = [
     { id: 281957, nombre: "Alinne" },
     { id: 260982, nombre: "Robert" },
-    { id: 343508, nombre: "Valeria" },
+    { id: 550222, nombre: "Jessica" },
 ];
 
 // Referencia al cuerpo de la tabla
