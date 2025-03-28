@@ -2,6 +2,9 @@
 const nombres = [
     { id: 281957, nombre: "Alinne" },
     { id: 260982, nombre: "Robert" },
+    { id: 343508, nombre: "Valeria"},
+    { id: 552651, nombre: "Jose" },
+    { id: 550210, nombre: "Danna" },
     { id: 550222, nombre: "Jessica" },
 ];
 
