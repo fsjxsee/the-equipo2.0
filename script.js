@@ -1,9 +1,8 @@
 // Array de datos
 const nombres = [
-    { id: 261177, nombre: "Cesar" },
+    { id: 281957, nombre: "Alinne" },
     { id: 260982, nombre: "Robert" },
     { id: 550222, nombre: "Jessica" },
-
 ];
 
 // Referencia al cuerpo de la tabla
